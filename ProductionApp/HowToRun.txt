@@ -1,0 +1,8 @@
+1) Install nodejs and npm(current version) on your computer then
+   open "ProductionApp" folder and open command prompt in that directory.
+2) Run "npm install"
+3) Run "node server.js"
+4) Your website will be live on localhost:4200
+
+############Cheeersss############
+  ####Developer: Mc Spraint####
