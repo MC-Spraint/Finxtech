@@ -1,0 +1,12 @@
+#Carousel{
+    position: relative;
+}
+
+#CarouselPic{
+    height: 26rem;
+}
+@media screen and (max-width:700px){
+    #CarouselPic{
+    height:15rem;
+    }
+}

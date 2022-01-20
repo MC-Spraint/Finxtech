@@ -1,0 +1,10 @@
+
+.nav-item:hover{
+    border-right: 4px solid white;
+    padding:0px 0px;
+    color: white;
+}
+.navbar-brand img{
+    height:3rem;
+    width:3rem;
+}

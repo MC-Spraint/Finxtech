@@ -1,0 +1,14 @@
+.img-fluid{
+
+    max-width:100%;
+    height: auto;
+    
+    
+}
+.hover{
+    padding:4rem 4rem;
+}
+.hover:hover{
+    padding: 0rem 0rem;
+    transition: 0.5s!important;
+}
