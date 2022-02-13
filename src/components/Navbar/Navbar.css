@@ -4,7 +4,7 @@
     padding:0px 0px;
     color: white;
 }
-.navbar-brand img{
+#logo {
     height:3rem;
     width:3rem;
 }

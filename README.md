@@ -1,6 +1,13 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and developed by Mc Spraint A.K.A Snahashis Das.
+The name of this application is finxtech that provides varieties of different IT solutions with all the newest techs in the market.
+
+## Developers Info
+
+Mobile number: +917602746149
+Email address: mcspraint954@gmail.com
+Website: [McSpraint](https://spraintswebtech.herokuapp.com)
 
 ## Available Scripts
 

@@ -10,7 +10,7 @@ export default class Footer extends Component {
                                                                     >
                 <div className="row px-5 py-5">
                     <div className="col-md-4 col-lg-4 col-sm-12 col-xsm-12">
-                        <h4>Important links</h4><hr/>
+                    <h4>Important links</h4><hr/>
                         <ul>
                             <li><Link to="/" classList="nv" style={{color:this.props.mode==="dark"? "white":"black"}}><FontAwesomeIcon icon={['fas', 'home']} /><span>Home</span></Link></li>
                             <li><Link to="/about" classList="nv" style={{color:this.props.mode==="dark"? "white":"black"}}><FontAwesomeIcon icon={['fas', 'address-card']} /><span>About</span></Link></li>

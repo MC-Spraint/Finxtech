@@ -5,21 +5,19 @@ export default class Landing extends Component {
     render() {
         return (
             <div id="front">
-                <div className="container">
-                <div className="row">
-                    <div className="col-6 text-left">
+                
+                
+                    <div className="flx-box text-left">
                         <h2 className="my-font">Hi!</h2>
-                        <h6>Welcome to<br/>
+                        <h3>Welcome to<br/>
                         finxtech, where<br/>
-                        business grows faster.</h6>
+                        business grows<br/> faster.</h3>
                     </div>
-                    <div className="col-6">
-
-                    </div>
-                </div>
-                </div>
-            
+                
             </div>
+            
+            
+            
             
         )
     }

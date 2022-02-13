@@ -1,5 +1,7 @@
 import "./TextForm.css";
 import React, { Component } from 'react'
+import { ToastContainer, toast } from 'react-toastify';    
+import 'react-toastify/dist/ReactToastify.css';
 
 export default class TextForm extends Component {
 
@@ -66,7 +68,8 @@ export default class TextForm extends Component {
     <textarea className="form-control" id="comment" rows="8" value={this.state.text} onChange={this.changeText}></textarea>
 </div>
 
-<button type="button" className="btn btn-primary">Submit</button>
+<button type="button" className="btn btn-primary" onClick={()=>toast.error("Error: Not available", {position:toast.POSITION.BOTTOM_CENTER})}>Submit</button>
+<p style={{color:"red"}}>*Form not connected to api</p>
 </form>
 </div>
 </div>
