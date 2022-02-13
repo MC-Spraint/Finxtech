@@ -12,17 +12,17 @@ export default class Testimonials extends Component {
         <section className="view" id="view" data-aos="fade-down">
             <section>
                 <img src="images/testimonials/a.png" alt=""/>
-                <h2>John Smith</h2>
-                <q>Hello world from testimonials. Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia a esse iure perferendis nam dolore. Amet, tempora voluptas quibusdam nam nihil porro nostrum illo cum, earum vitae reprehenderit dolor officia.</q>
-            </section>
-            <section>
-                <img src="images/testimonials/b.png" alt=""/>
                 <h2>Alex Wayne</h2>
                 <q>Hello world from testimonials. Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia a esse iure perferendis nam dolore. Amet, tempora voluptas quibusdam nam nihil porro nostrum illo cum, earum vitae reprehenderit dolor officia.</q>
             </section>
             <section>
+                <img src="images/testimonials/b.png" alt=""/>
+                <h2>Mc Spraint</h2>
+                <q>Hello world from testimonials. Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia a esse iure perferendis nam dolore. Amet, tempora voluptas quibusdam nam nihil porro nostrum illo cum, earum vitae reprehenderit dolor officia.</q>
+            </section>
+            <section>
                 <img src="images/testimonials/c.png" alt=""/>
-                <h2>David Daniel</h2>
+                <h2>Olie Daniela</h2>
                 <q>Hello world from testimonials. Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia a esse iure perferendis nam dolore. Amet, tempora voluptas quibusdam nam nihil porro nostrum illo cum, earum vitae reprehenderit dolor officia.</q>
             </section>
         </section>
