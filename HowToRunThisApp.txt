@@ -3,7 +3,7 @@ the development phase of the application
 which runs on a sample development server(localhost:3000).
 
 1) Install nodejs and npm(current version) on your computer then
-   open command prompt in this directory.
+   open command prompt in this directory
 2) Run "npm install"
 3) Run "npm run start"
 4) Your website will be live on localhost:3000
