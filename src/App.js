@@ -44,7 +44,7 @@ library.add(fas,fab,far);
 
 export default class App extends Component {
 
-  state={mode:"light"};//Reserved keyword for useState
+  state={mode:"dark"};//Reserved keyword for useState
   /*
   use of constructor and setState :
     use of constructor is to initialize 
@@ -63,10 +63,12 @@ export default class App extends Component {
     if(this.state.mode==="light"){
       this.setState({mode:"dark"});
       document.body.style.backgroundColor="rgb(3, 8, 70)";
+      
     }
     else{
       this.setState({mode:"light"});
       document.body.style.backgroundColor="white";
+      
     }
   }
   
